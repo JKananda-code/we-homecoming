@@ -7,7 +7,7 @@ const Header = () => {
       <nav className="container mx-auto flex justify-between items-center">
         <div className="text-lg font-bold">
            <Image
-            src="/Logo.jpg" 
+            src="/Wa-Elijah.png" 
             alt="WE-Logo" 
             width={100}
             height={100}

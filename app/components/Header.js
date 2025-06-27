@@ -11,7 +11,7 @@ const Header = () => {
             alt="WE-Logo" 
             width={100}
             height={100}
-            priority
+            priority={true}
             />
         </div>
         <div className="space-x-4">

@@ -1,7 +1,7 @@
 
 import Header from './components/Header';
 import Footer from './components/Footer';
-import "./globals.css";
+import "./styles/globals.css";
 
 export const metadata = {
   title: "Homecoming Ceremony",
